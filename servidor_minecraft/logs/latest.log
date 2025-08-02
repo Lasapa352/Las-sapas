@@ -52,3 +52,56 @@
 [17:41:05] [Server thread/INFO]: NotVisions joined the game
 [17:41:05] [Server thread/INFO]: NotVisions[/127.182.36.45:36645] logged in with entity id 1266 at ([world]-27.270771142433993, 136.5598768831499, -33.1470682577878)
 [17:41:07] [Server thread/INFO]: NotVisions fell from a high place
+[17:42:29] [Server thread/INFO]: NotVisions tried to swim in lava
+[17:44:01] [Async Chat Thread - #4/INFO]: [Not Secure] <CJgoon> sapa
+[17:44:10] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> Puse el /shop creo
+[17:44:10] [Async Chat Thread - #4/INFO]: [Not Secure] <NotVisions> q
+[17:44:14] [Async Chat Thread - #5/INFO]: [Not Secure] <NotVisions> dame op
+[17:44:16] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> depsues reinicio
+[17:44:23] [Async Chat Thread - #4/INFO]: [Not Secure] <CJgoon> Eso no me deja no se pq xd
+[17:44:25] [Async Chat Thread - #6/INFO]: [Not Secure] <CJgoon> ni ami
+[17:44:28] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> deja intento
+[17:44:29] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> desde consola
+[17:44:31] [Async Chat Thread - #5/INFO]: [Not Secure] <NotVisions> op NotVisions
+[17:44:34] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> op CJgoon
+[17:44:41] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:44:51] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> dice uknonw command
+[17:45:00] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> el op?
+[17:45:13] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> Si
+[17:45:14] [Async Chat Thread - #6/INFO]: [Not Secure] <CJgoon> xd
+[17:45:15] [Server thread/INFO]: NotVisions issued server command: /shop
+[17:45:16] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> ve
+[17:45:18] [Async Chat Thread - #5/INFO]: [Not Secure] <CJgoon> deja reinicio
+[17:45:19] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> tan raro xd
+[17:45:21] [Async Chat Thread - #5/INFO]: [Not Secure] <NotVisions> va
+[17:45:24] [Async Chat Thread - #6/INFO]: [Not Secure] <NotVisions> -/restart
+[17:45:46] [Server thread/INFO]: CJgoon lost connection: Disconnected
+[17:45:46] [Server thread/INFO]: CJgoon left the game
+[17:46:02] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:46:08] [Server thread/INFO]: Stopping server
+[17:46:08] [Server thread/INFO]: Saving players
+[17:46:08] [Server thread/INFO]: NotVisions lost connection: Server closed
+[17:46:08] [Server thread/INFO]: NotVisions left the game
+[17:46:08] [Server thread/INFO]: Saving worlds
+[17:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:46:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:46:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:46:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:46:09] [Server thread/INFO]: [ChunkHolderManager] Saved 2288 block chunks, 586 entity chunks, 0 poi chunks in world 'world' in 1.35s
+[17:46:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:46:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:46:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:46:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:46:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:46:10] [Server thread/INFO]: [ChunkHolderManager] Saved 1500 block chunks, 13 entity chunks, 0 poi chunks in world 'world_nether' in 0.39s
+[17:46:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:46:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:46:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:46:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:46:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:46:10] [Server thread/INFO]: [ChunkHolderManager] Saved 1506 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.28s
+[17:46:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:46:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:46:10] [Server thread/INFO]: Flushing Chunk IO
+[17:46:10] [Server thread/INFO]: Closing Thread Pool
+[17:46:10] [Server thread/INFO]: Closing Server
