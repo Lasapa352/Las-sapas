@@ -1,50 +1,45 @@
-[21Aug2025 13:58:30.496] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[21Aug2025 13:58:30.498] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
-[21Aug2025 13:58:30.499] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[21Aug2025 13:58:30.596] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[21Aug2025 13:58:30.727] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Las-sapas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[21Aug2025 13:58:30.954] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[21Aug2025 13:58:31.792] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[21Aug2025 13:58:37.159] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.0.0, for MC 1.21.8 with MCP 20250717.105350
-[21Aug2025 13:58:37.162] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.0.0 Initialized
-[21Aug2025 13:58:37.181] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[21Aug2025 13:58:37.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Aug2025 13:58:38.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 58.0.0 Target: 58.0.7
-[21Aug2025 13:58:38.834] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21Aug2025 13:58:40.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1407 recipes
-[21Aug2025 13:58:40.997] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
-[21Aug2025 13:58:41.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.8
-[21Aug2025 13:58:41.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Aug2025 13:58:41.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Aug2025 13:58:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Aug2025 13:58:41.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Aug2025 13:58:41.392] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Aug2025 13:58:41.468] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Aug2025 13:58:41.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Aug2025 13:58:41.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Aug2025 13:58:41.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Aug2025 13:58:41.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Aug2025 13:58:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Aug2025 13:58:44.247] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Aug2025 13:58:44.249] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Aug2025 13:58:44.249] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Aug2025 13:58:44.249] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Aug2025 13:58:44.250] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Aug2025 13:58:44.386] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[21Aug2025 13:58:44.459] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2574 ms
-[21Aug2025 13:58:44.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.977s)! For help, type "help"
-[21Aug2025 13:58:44.489] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Aug2025 13:59:25.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.11.152.110:45379] logged in with entity id 8 at (231585.77856188113, 89.72478401319525, 2346785.637622641)
-[21Aug2025 13:59:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
-[21Aug2025 14:00:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Aug2025 14:00:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Aug2025 14:00:11.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
-[21Aug2025 14:00:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
-[21Aug2025 14:00:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Aug2025 14:00:11.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21Aug2025 14:00:12.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21Aug2025 14:00:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21Aug2025 14:00:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21Aug2025 14:00:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Aug2025 14:00:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Aug2025 14:00:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Aug2025 18:41:19.244] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Aug2025 18:41:19.247] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[21Aug2025 18:41:19.247] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[21Aug2025 18:41:19.490] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Aug2025 18:41:19.621] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Las-sapas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Aug2025 18:41:19.784] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Aug2025 18:41:20.703] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Aug2025 18:41:27.422] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.0.0, for MC 1.21.8 with MCP 20250717.105350
+[21Aug2025 18:41:27.424] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.0.0 Initialized
+[21Aug2025 18:41:27.436] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Aug2025 18:41:28.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Aug2025 18:41:28.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 58.0.0 Target: 58.0.8
+[21Aug2025 18:41:29.137] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21Aug2025 18:41:31.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1407 recipes
+[21Aug2025 18:41:31.711] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
+[21Aug2025 18:41:31.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.8
+[21Aug2025 18:41:31.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Aug2025 18:41:31.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Aug2025 18:41:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Aug2025 18:41:31.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Aug2025 18:41:32.087] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Aug2025 18:41:32.163] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Aug2025 18:41:32.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Aug2025 18:41:32.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Aug2025 18:41:32.167] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Aug2025 18:41:32.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Aug2025 18:41:32.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Aug2025 18:41:34.213] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.159.152.208:33765] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[21Aug2025 18:41:35.378] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.380] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.380] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.381] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Aug2025 18:41:35.505] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2884 ms
+[21Aug2025 18:41:35.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.325s)! For help, type "help"
+[21Aug2025 18:41:35.532] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Aug2025 18:41:59.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.159.152.208:44131] logged in with entity id 54 at (232752.49532144607, 163.0, 2347252.494944331)
+[21Aug2025 18:41:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
+[21Aug2025 18:42:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Set own game mode to Survival Mode]
+[21Aug2025 18:43:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon was killed
+[21Aug2025 18:43:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Killed CJgoon]
+[21Aug2025 18:47:02.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Set the time to 1000]
+[21Aug2025 18:50:27.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
+[21Aug2025 18:50:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
