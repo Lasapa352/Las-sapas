@@ -72,3 +72,15 @@
 [21Aug2025 13:56:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Aug2025 13:56:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
 [21Aug2025 13:56:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJgoon> reset
+[21Aug2025 13:57:40.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
+[21Aug2025 13:57:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
+[21Aug2025 13:57:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Aug2025 13:57:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Aug2025 13:57:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Aug2025 13:57:40.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Aug2025 13:57:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Aug2025 13:57:48.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Aug2025 13:57:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Aug2025 13:57:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Aug2025 13:57:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Aug2025 13:57:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
