@@ -43,3 +43,15 @@
 [21Aug2025 18:47:02.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Set the time to 1000]
 [21Aug2025 18:50:27.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
 [21Aug2025 18:50:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
+[21Aug2025 18:51:18.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.159.152.208:53689] logged in with entity id 2311 at (232866.47276508212, 70.41999998688698, 2347004.5132407495)
+[21Aug2025 18:51:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
+[21Aug2025 18:52:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon has made the advancement [Stone Age]
+[21Aug2025 18:52:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon has made the advancement [Getting an Upgrade]
+[21Aug2025 18:53:32.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon has made the advancement [Monster Hunter]
+[21Aug2025 18:55:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon has made the advancement [Acquire Hardware]
+[21Aug2025 18:56:13.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
+[21Aug2025 18:56:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
+[21Aug2025 18:56:33.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.159.152.208:41081] logged in with entity id 3666 at (232879.8431839901, 50.0, 2346883.2027492947)
+[21Aug2025 18:56:33.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
+[21Aug2025 18:57:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon has made the advancement [Isn't It Iron Pick]
+[21Aug2025 18:57:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Set the time to 1000]
