@@ -1,82 +1,74 @@
-[18:28:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:28:23] [ServerMain/INFO]: Loaded 7 recipes
-[18:28:24] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:28:24] [Server thread/INFO]: Loading properties
-[18:28:24] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[18:28:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:28:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:28:25] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:28:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:28:25] [Server thread/INFO]: Default game type: SURVIVAL
-[18:28:25] [Server thread/INFO]: Generating keypair
-[18:28:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:28:26] [Server thread/INFO]: Using epoll channel type
-[18:28:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:28:26] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[18:28:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:28:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:28:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:28:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:28:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:28:26] [Server thread/INFO]: Preparing level "world"
-[18:28:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:28:28] [Server thread/INFO]: Time elapsed: 569 ms
-[18:28:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:28:28] [Server thread/INFO]: Time elapsed: 58 ms
-[18:28:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:28:29] [Server thread/INFO]: Time elapsed: 162 ms
-[18:28:29] [Server thread/INFO]: Running delayed init tasks
-[18:28:29] [Server thread/INFO]: Done (5.192s)! For help, type "help"
-[18:28:29] [Server thread/INFO]: Timings Reset
-[18:29:37] [User Authenticator #0/INFO]: UUID of player NotVisions is 74082e0a-01be-3dfc-b857-129abf97e6ba
-[18:29:37] [Server thread/INFO]: NotVisions joined the game
-[18:29:37] [Server thread/INFO]: NotVisions[/127.182.36.45:58951] logged in with entity id 217 at ([world]-29.30000001192093, 156.04627346731672, -34.11656144224408)
-[18:29:42] [Server thread/INFO]: NotVisions issued server command: /plugins
-[18:29:43] [User Authenticator #0/INFO]: UUID of player CJgoon is 314f1660-8e99-3248-a179-827b06cea698
-[18:29:43] [Server thread/INFO]: CJgoon joined the game
-[18:29:43] [Server thread/INFO]: CJgoon[/127.70.111.71:44555] logged in with entity id 262 at ([world]-16.692430904515327, 146.49728108045602, -17.127812108349037)
-[18:29:47] [Async Chat Thread - #1/INFO]: [Not Secure] <NotVisions> 0 plugins
-[18:29:48] [Async Chat Thread - #0/INFO]: [Not Secure] <NotVisions> xddd
-[18:29:51] [Async Chat Thread - #1/INFO]: [Not Secure] <CJgoon> mierda
-[18:29:54] [Async Chat Thread - #0/INFO]: [Not Secure] <CJgoon> puta mierda
-[18:30:02] [Async Chat Thread - #1/INFO]: [Not Secure] <NotVisions> que será?
-[18:30:10] [Async Chat Thread - #0/INFO]: [Not Secure] <NotVisions> ya has intenado por los codigos eso?
-[18:30:14] [Async Chat Thread - #1/INFO]: [Not Secure] <CJgoon> creo que debo instalar algo que los permit
-[18:30:15] [Async Chat Thread - #0/INFO]: [Not Secure] <NotVisions> te dice elije opcion
-[18:30:19] [Async Chat Thread - #1/INFO]: [Not Secure] <NotVisions> elije addons
-[18:30:20] [Async Chat Thread - #0/INFO]: [Not Secure] <CJgoon> y no hay videos de eso
-[18:30:25] [Async Chat Thread - #1/INFO]: [Not Secure] <CJgoon> oka
-[18:30:30] [Async Chat Thread - #0/INFO]: [Not Secure] <NotVisions> y luego la 1 de plugins y elijes el plugin
-[18:30:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[18:30:54] [Server thread/INFO]: NotVisions issued server command: /shock
-[18:31:25] [Server thread/INFO]: NotVisions lost connection: Disconnected
-[18:31:25] [Server thread/INFO]: NotVisions left the game
-[18:31:25] [Server thread/INFO]: CJgoon lost connection: Disconnected
-[18:31:25] [Server thread/INFO]: CJgoon left the game
-[18:31:26] [Server thread/INFO]: Stopping server
-[18:31:26] [Server thread/INFO]: Saving players
-[18:31:26] [Server thread/INFO]: Saving worlds
-[18:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:31:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:31:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:31:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:31:27] [Server thread/INFO]: [ChunkHolderManager] Saved 1052 block chunks, 775 entity chunks, 0 poi chunks in world 'world' in 1.68s
-[18:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:31:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:31:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:31:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:31:28] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.61s
-[18:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:31:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:31:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:31:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:31:28] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.20s
-[18:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:31:28] [Server thread/INFO]: Flushing Chunk IO
-[18:31:28] [Server thread/INFO]: Closing Thread Pool
-[18:31:28] [Server thread/INFO]: Closing Server
+[21Aug2025 13:47:26.229] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[21Aug2025 13:47:26.233] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[21Aug2025 13:47:26.234] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[21Aug2025 13:47:26.329] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Las-sapas/servidor_minecraft/config/fml.toml is not correct. Correcting
+[21Aug2025 13:47:26.330] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[21Aug2025 13:47:26.331] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[21Aug2025 13:47:26.331] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[21Aug2025 13:47:26.331] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[21Aug2025 13:47:26.345] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Aug2025 13:47:26.455] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Las-sapas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Aug2025 13:47:26.713] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Aug2025 13:47:27.644] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[21Aug2025 13:47:33.134] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 58.0.0, for MC 1.21.8 with MCP 20250717.105350
+[21Aug2025 13:47:33.136] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v58.0.0 Initialized
+[21Aug2025 13:47:33.150] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Aug2025 13:47:33.364] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Las-sapas/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[21Aug2025 13:47:33.366] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[21Aug2025 13:47:33.366] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
+[21Aug2025 13:47:34.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Aug2025 13:47:34.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 58.0.0 Target: 58.0.7
+[21Aug2025 13:47:34.749] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21Aug2025 13:47:35.612] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[21Aug2025 13:47:36.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1407 recipes
+[21Aug2025 13:47:36.801] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
+[21Aug2025 13:47:36.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.8
+[21Aug2025 13:47:36.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Aug2025 13:47:36.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Aug2025 13:47:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Aug2025 13:47:37.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Aug2025 13:47:37.172] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Aug2025 13:47:37.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Aug2025 13:47:37.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Aug2025 13:47:37.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Aug2025 13:47:37.228] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Aug2025 13:47:37.243] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[21Aug2025 13:47:37.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[21Aug2025 13:47:37.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[21Aug2025 13:47:37.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[21Aug2025 13:47:37.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[21Aug2025 13:47:37.246] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[21Aug2025 13:47:37.246] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[21Aug2025 13:47:37.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Aug2025 13:47:43.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Aug2025 13:47:43.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Aug2025 13:47:44.024] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Aug2025 13:47:44.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Aug2025 13:47:44.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Aug2025 13:47:45.432] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[21Aug2025 13:47:45.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[21Aug2025 13:47:46.400] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[21Aug2025 13:47:46.944] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[21Aug2025 13:47:47.400] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[21Aug2025 13:47:47.840] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4442 ms
+[21Aug2025 13:47:47.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.600s)! For help, type "help"
+[21Aug2025 13:47:47.862] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Aug2025 13:48:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[21Aug2025 13:48:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Aug2025 13:48:48.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapa<--[HERE]
+[21Aug2025 13:50:14.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.11.152.110:56045] logged in with entity id 17 at (-13.5, 67.0, 25.5)
+[21Aug2025 13:50:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
+[21Aug2025 13:50:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: CJgoon
+[21Aug2025 13:50:27.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ode CJgoon creative<--[HERE]
+[21Aug2025 13:50:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJgoon> o
+[21Aug2025 13:50:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set CJgoon's game mode to Creative Mode
+[21Aug2025 13:50:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CJgoon a server operator
+[21Aug2025 13:51:56.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJgoon lost connection: Disconnected
+[21Aug2025 13:51:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon left the game
+[21Aug2025 13:52:10.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJgoon[/127.11.152.110:37881] logged in with entity id 921 at (-32.84969418290574, 69.0, 94.63073424508005)
+[21Aug2025 13:52:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJgoon joined the game
+[21Aug2025 13:54:33.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Teleported CJgoon to 2313.500000, 78.118136, 3344.905611]
+[21Aug2025 13:55:02.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CJgoon: Teleported CJgoon to 231563.500000, 88.607191, 2346825.433556]
+[21Aug2025 13:56:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Aug2025 13:56:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
+[21Aug2025 13:56:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJgoon> reset
