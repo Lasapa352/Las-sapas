@@ -238,6 +238,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-21 18:54:41 +0000",
+      "cooked_mutton": "2025-08-21 18:58:19 +0000",
       "salmon": "2025-08-21 18:49:31 +0000"
     },
     "done": false
@@ -587,6 +588,36 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 18:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-21 18:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-21 19:01:26 +0000"
     },
     "done": true
   },
